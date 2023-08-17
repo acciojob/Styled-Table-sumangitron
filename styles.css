@@ -1,1 +1,7 @@
 /* your code */
+tr:nth-child(even){
+	background:#D6EEEE
+}
+#headtable{
+	background:cornflowerblue
+}
